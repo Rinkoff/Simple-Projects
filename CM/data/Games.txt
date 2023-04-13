@@ -1,0 +1,10 @@
+League of legends; Riot Games; MOBA; 2009; Multiplayer
+Valorant; Riot Games; Shooter; 2020; Multiplayer
+Team Fight Tactics; Riot Games; Strategy; 2019; Multiplayer
+World of Warcraft; Blizzard; MMORPG; 2004; Multiplayer
+Dota 2; Valve; MOBA; 2013; Multiplayer
+Nier:Automata; PlatinumGames; Action role-playing; 2017; Single-player
+Counter-Strike:GO; Valve; Shooter; 2012; Multiplayer
+Dead By Daylight; Behavior Interactive; Survival,Horror; 2016; Single-player
+Overwatch; Blizzard; Shooter; 2016; Multiplayer
+Genshin Impact; Mihoyo; Action role-playing; 2020; Single-player,Multiplayer
