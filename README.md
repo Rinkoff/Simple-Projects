@@ -1,1 +1,1 @@
-This repo contains some **_Basic Apps_**
+This repo contains some **_Basic Desktop Apps_**
